@@ -97,3 +97,10 @@ data_list = list(map(int, input().split()))
 sorted_list = bubble_sort(data_list)
 print(sorted_list)
 ```
+## Time Complexity
+The time complexity is based on the number of comparisons.
+## Applications
+Use Bubble Sort for
+- Small data sets
+- Simplicity over efficiency
+- Data is already partially sorted
