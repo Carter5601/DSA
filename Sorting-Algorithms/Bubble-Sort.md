@@ -1,3 +1,4 @@
+Bubble Sort
 ```
 # Bubble Sort Algorithm 
 for i in range(len(lst)):   
